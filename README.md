@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Marsimohi 👋
 
-<!--
-**Mersi88/Mersi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student at Toronto Metropolitan University (TMU), graduating 2028.
 
-Here are some ideas to get you started:
+## 🎯 What I'm working toward
+Landing an internship in Data Engineering, ML Engineering, or AI Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Skills
+- Python, SQL, Pandas, NumPy
+- Flask, REST APIs
+- Git, Linux, VS Code
+- Data cleaning, ETL pipelines, EDA
+
+## 🔨 Currently Building
+- Improving my data engineering and ML skills
+- Building projects in Python and data analysis
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/marsimohi-abdula
+- Email: mersitofic2002@gmail.com
